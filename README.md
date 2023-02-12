@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GregDoesStuff
 
 <p align="center">
-  <img src="IMG_5641.CR2.jpg" height="400px" width="600px">
+  <img src="IMG_5641.CR2.jpg" height="400px" width="600px" alttext="Yosemite Valley :)">
 </p>
 <p>
 I’m making the transition from Construction and Manufacturing to Cybersecurity.
