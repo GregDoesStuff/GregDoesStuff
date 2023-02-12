@@ -1,4 +1,4 @@
-#Hi 👋 I’m @GregDoesStuff
+# Hi 👋 I’m @GregDoesStuff
 
 <p align="center">
   <img src="IMG_5641.CR2.jpg" height="400px" width="600px" alttext="Yosemite Valley :)">
@@ -9,7 +9,7 @@ I’m making the transition from Construction and Manufacturing to Cybersecurity
 </p>
 
 - 🌱 I’m currently learning the basics, studying for my Security+ first, and building on my knowledge base of IT/Networking experience.
-- 💞️ I’m looking to collaborate on nothing yet...
+- 💞️ I’m looking to collaborate on Cybersecurity topics!
 - 📫 How to reach me? On Twitter @GregWilsonTahoe
 
 <!---
