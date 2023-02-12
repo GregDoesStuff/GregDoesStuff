@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GregDoesStuff
+#Hi 👋 I’m @GregDoesStuff
 
 <p align="center">
   <img src="IMG_5641.CR2.jpg" height="400px" width="600px" alttext="Yosemite Valley :)">
