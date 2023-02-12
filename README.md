@@ -5,7 +5,7 @@
 </p>
 <p>
 I’m making the transition from Construction and Manufacturing to Cybersecurity.
-<p>To know more about me, visit my <a href="https://www.linkedin.com/in/gregdoesstuff/">Linkedin Profile</a>.
+<p>To learn more about me, visit my <a href="https://www.linkedin.com/in/gregdoesstuff/">Linkedin Profile</a>.
 </p>
 
 - 🌱 I’m currently learning the basics, studying for my Security+ first, and building on my knowledge base of IT/Networking experience.
