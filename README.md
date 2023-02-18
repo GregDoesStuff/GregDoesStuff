@@ -4,7 +4,7 @@
   <img src="Yosemite.jpg" style="height; 50%; width=900px; display: block; margin: 0 auto; alt="Yosemite Valley :)">
 </p>
 <p>
-I’m making the transition from Construction and Manufacturing to Cybersecurity.
+I’m making the transition from Business Ownership to  Cybersecurity.
 <p>To learn more about me, visit my <a href="https://www.linkedin.com/in/gregdoesstuff/">Linkedin Profile</a>.
 </p>
 
