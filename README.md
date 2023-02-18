@@ -13,7 +13,7 @@ I’m making the transition from Business Ownership to  Cybersecurity.
 - 📫 How to reach me? On Twitter @GregWilsonTahoe
 
 <p align="center">
-  <img src="2-16-2023 7-52-03 PM.jpg" height="600px" width="600px" >
+  <img src="2-17-2023 7-34-18 PM.jpg" height="600px" width="600px" >
 </p>
 <p>
 <div align="center">
