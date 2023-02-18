@@ -16,6 +16,10 @@ I’m making the transition from Business Ownership to  Cybersecurity.
   <img src="2-16-2023 7-52-03 PM.jpg" height="600px" width="600px" >
 </p>
 <p>
+<p align="left">
+  <img src="https://api.badgr.io/public/assertions/aM_kRTZEQPanQAn2-e261Q/image" height="auto" width="auto" >
+</p>
+<p>
 ![badge image](https://api.badgr.io/public/assertions/aM_kRTZEQPanQAn2-e261Q/image)
 
 <!---
