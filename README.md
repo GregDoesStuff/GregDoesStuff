@@ -19,6 +19,9 @@ I’m making the transition from Business Ownership to  Cybersecurity.
 <p align="left">
   <img src="2-17-2023 6-11-49 PM.jpg" height="400px" width="auto" >
 </p>
+<p align="right">
+  <img src="2-17-2023 6-12-01 PM.jpg" height="400px" width="auto" >
+</p>
 <p>
 
 <!---
