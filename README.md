@@ -17,10 +17,9 @@ I’m making the transition from Business Ownership to  Cybersecurity.
 </p>
 <p>
 <p align="left">
-  <img src="https://api.badgr.io/public/assertions/aM_kRTZEQPanQAn2-e261Q/image" height="auto" width="auto" >
+  <img src="2-17-2023 6-11-49 PM.jpg" height="400px" width="auto" >
 </p>
 <p>
-![badge image](https://api.badgr.io/public/assertions/aM_kRTZEQPanQAn2-e261Q/image)
 
 <!---
 GregDoesStuff/GregDoesStuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
