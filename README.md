@@ -23,6 +23,11 @@ I’m making the transition from Business Ownership to  Cybersecurity.
 <p align="center">
   <img src="2-17-2023 6-12-08 PM.jpg" height="300px" width="auto" >
 <p>
+<div style="display: flex; justify-content: center;">
+  <img src="2-17-2023 6-11-49 PM.jpg" style="height: 300px; width: auto;">
+  <img src="2-17-2023 6-12-01 PM.jpg" style="height: 300px; width: auto;">
+  <img src="2-17-2023 6-12-08 PM.jpg" style="height: 300px; width: auto;">
+</div>
 
 <!---
 GregDoesStuff/GregDoesStuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
