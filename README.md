@@ -17,11 +17,11 @@ I’m making the transition from Business Ownership to  Cybersecurity.
 </p>
 <p>
 <p align="center">
-  <img src="2-17-2023 6-11-49 PM.jpg" height="400px" width="auto" >
+  <img src="2-17-2023 6-11-49 PM.jpg" height="300px" width="auto" >
 <p align="center">
-  <img src="2-17-2023 6-12-01 PM.jpg" height="400px" width="auto" >
+  <img src="2-17-2023 6-12-01 PM.jpg" height="300px" width="auto" >
 <p align="center">
-  <img src="2-17-2023 6-12-08 PM.jpg" height="400px" width="auto" >
+  <img src="2-17-2023 6-12-08 PM.jpg" height="300px" width="auto" >
 <p>
 
 <!---
