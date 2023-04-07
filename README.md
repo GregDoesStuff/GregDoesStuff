@@ -7,6 +7,8 @@
 I’m making the transition from Business Ownership to  Cybersecurity.
 <p>To learn more about me, visit my <a href="https://www.linkedin.com/in/gregdoesstuff/">Linkedin Profile</a>.
 </p>
+<p>View my <a href="[https://www.linkedin.com/in/gregdoesstuff/](https://www.linkedin.com/in/gregdoesstuff/details/certifications/)">Certificates</a>.
+</p>
 
 - 🌱 I’m currently learning the basics, studying for my Security+ first, and building on my knowledge base of IT/Networking experience.
 - 💞️ I’m looking to collaborate on Cybersecurity topics!
