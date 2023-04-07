@@ -12,7 +12,7 @@ I’m making the transition from Business Ownership to  Cybersecurity.
 
 - 🌱 I’m currently learning the basics, studying for my Security+ first, and building on my knowledge base of IT/Networking experience.
 - 💞️ I’m looking to collaborate on Cybersecurity topics!
-- 📫 How to reach me? On Twitter @GregWilsonTahoe
+- 📫 How to reach me? On Twitter <a href="https://twitter.com/GregWilsonTahoe ">@GregWilsonTahoe</a>.
 
 <p align="center">
   <img src="2-17-2023 7-34-18 PM.jpg" height="600px" width="600px" >
